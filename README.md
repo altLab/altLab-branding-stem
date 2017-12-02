@@ -24,4 +24,4 @@ Make available and ready to use bitmap and vector files with the standart format
 
 
 ----
-First logo design was made back in 2009 by (Nuno Rosa)[http://cargocollective.com/nunorosa/ALTLAB-1]
+First logo design was made back in 2009 by [Nuno Rosa](http://cargocollective.com/nunorosa/ALTLAB-1)
