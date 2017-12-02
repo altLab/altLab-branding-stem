@@ -21,3 +21,7 @@ Make available and ready to use bitmap and vector files with the standart format
 - Print Branding Kit (set of vector logos and templates)
 - Video Branding Kit (set of video and overlay templates)
 - All Branding Source Files
+
+
+----
+First logo design was made back in 2009 by (Nuno Rosa)[http://cargocollective.com/nunorosa/ALTLAB-1]
